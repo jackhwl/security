@@ -1,2 +1,17 @@
 ## Internet Security: A Hands-on Approach
-  1. Course overview part I
+  - 1. Course overview part I
+  - 2. Course overview part II
+    - https://seedsecuritylabs.org
+    - python, scapy, c
+    - Basin Network Utilities
+      - Wireshark
+      - ping
+      - netcat/nc
+      - telnet, ssh
+      - iptables (firewall)
+      - ip addr
+      - ip route(routing)
+      - dig (DNS)
+    - build our own utilities
+    - vendor neutral
+    - https://www.handsonsecurity.net/
