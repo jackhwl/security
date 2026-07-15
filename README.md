@@ -15,3 +15,6 @@
     - build our own utilities
     - vendor neutral
     - https://www.handsonsecurity.net/
+  - 3. Lab Exercises and Setup
+    - Network security labs
+    - Network Basics: IP Addresses
