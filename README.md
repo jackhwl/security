@@ -18,3 +18,4 @@
   - 3. Lab Exercises and Setup
     - Network security labs
     - Network Basics: IP Addresses
+    - Network Address Translation (NAT)
