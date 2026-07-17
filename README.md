@@ -19,4 +19,5 @@
     - Network security labs
     - Network Basics: IP Addresses
     - Network Address Translation (NAT)
-    - Packet Sniffing & Spoofing
+  - Packet Sniffing & Spoofing
+    - Socket Programming: Sending/Receiving Packets
