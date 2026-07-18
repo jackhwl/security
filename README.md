@@ -27,3 +27,11 @@
         - promiscuous mode
         - raw socket
         - BPF (Berkely Packet Filter)
+    - Sniffing Using PCAP
+      - PCAP: Packet Capture API
+        - tcpdump
+        - Linux: libpcap
+        - Windows: WinPcap and Npcap
+      - Pcap configuration
+      - filter
+      - start sniffing   
