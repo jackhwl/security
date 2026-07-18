@@ -34,4 +34,21 @@
         - Windows: WinPcap and Npcap
       - Pcap configuration
       - filter
-      - start sniffing   
+      - start sniffing
+    - Sniffing Using Scapy or Wireshark
+      - what is scapy?
+        - Powerful modules (or programs) for packet manipulation
+        - Packet parsing
+        - Packet sending and receiving
+        - Packet sniffing
+        - Packet spoofing
+        - Adding new protocols
+        - Many more applications...
+      - Iterate through layers
+        - pkt.payload.payload.payload
+        - checking layer type: pkt.haslayer(UDP)
+        - accessing layers: 
+          - pkt[UDP]
+          - pkt.getlayer(UDP)
+          - pkt[Raw]
+          - pkt[Raw].load
