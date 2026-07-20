@@ -52,3 +52,7 @@
           - pkt.getlayer(UDP)
           - pkt[Raw]
           - pkt[Raw].load
+        - Get attribute Names
+          - ls(IP)
+        - Get Method Names
+          - help(IP)
