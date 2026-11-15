@@ -4,3 +4,4 @@
   2. Course Overview (Part II)
     - https://seedsecuritylabs.org
   3. Lab Exercises and Setup
+  4. Network Basics: IP Addresses
