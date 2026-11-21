@@ -36,3 +36,4 @@
   5. NAT and Summary
 - Section 2: Packet Sniffing and Spoofing
   6. Introduction
+  7. Socket Programming and Sending Packets
