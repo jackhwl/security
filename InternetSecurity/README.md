@@ -37,3 +37,5 @@
 - Section 2: Packet Sniffing and Spoofing
   6. Introduction
   7. Socket Programming and Sending Packets
+     - 准确地说，Docker 容器不是 VM 里面再运行的一个完整 Linux 内核，而是 VM 的 Linux 内核通过 Namespaces、cgroups 等机制隔离出来的一组进程。
+  8. Receiving Packets
