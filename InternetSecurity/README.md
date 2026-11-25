@@ -41,3 +41,7 @@
   8. Receiving Packets
   9. Packet Sniffing
   10. Sniffing Using PCAP
+    - PCAP original coming from tcpdump
+    - Linux: libpcap
+    - Windows: WinPcap and Npcap
+    - pcap configuration => filter => start sniffing
