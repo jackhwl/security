@@ -45,3 +45,9 @@
     - Linux: libpcap
     - Windows: WinPcap and Npcap
     - pcap configuration => filter => start sniffing
+      - compile filter
+      - set filter
+  11. Sniffing Using Scapy
+    - powerful modules or programs for packet manipulation
+    - Iterate through layers
+    - <Ether type=IPv4 | <IP frag=0 proto=udp | <UDP | <Raw load='hello' |>>>>
