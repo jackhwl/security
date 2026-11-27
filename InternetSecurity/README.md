@@ -51,3 +51,5 @@
     - powerful modules or programs for packet manipulation
     - Iterate through layers
     - <Ether type=IPv4 | <IP frag=0 proto=udp | <UDP | <Raw load='hello' |>>>>
+    - pkt.haslayer(UDP)
+    - pkt[UDP], pkt.getlayer(UDP)
