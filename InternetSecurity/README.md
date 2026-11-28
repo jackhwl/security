@@ -53,3 +53,8 @@
     - <Ether type=IPv4 | <IP frag=0 proto=udp | <UDP | <Raw load='hello' |>>>>
     - pkt.haslayer(UDP)
     - pkt[UDP], pkt.getlayer(UDP)
+    - pkt.payload.payload
+    - ls(IP), help(IP)
+    - wireshark
+  12. Packet Spoofing
+    - Spoofing packet using raw socket
